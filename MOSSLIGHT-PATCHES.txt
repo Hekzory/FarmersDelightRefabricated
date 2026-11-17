@@ -1,0 +1,3 @@
+Unofficial build of Farmer's Delight Refabricated, with the upstream licenses preserved.
+Restore REI cooking displays for recipes that require no serving container. Compile CookingPotDisplay from the patched source against pinned dependencies and replace only that class in the official artifact, alongside build metadata and notice.
+https://github.com/MehVahdJukaar/FarmersDelightRefabricated/pull/396

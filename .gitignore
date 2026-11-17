@@ -49,3 +49,5 @@ forge*changelog.txt
 .cursor/
 .junie/
 CLAUDE.md
+
+/release-dist/
